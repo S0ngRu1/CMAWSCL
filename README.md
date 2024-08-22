@@ -32,6 +32,3 @@ To access the Weibo21 dataset, you must agree to the terms outlined in the [appl
 
 ## Citations
 If you use this code as part of any published research, we'd really appreciate it if you could cite the following paper:
-```text
-
-```
